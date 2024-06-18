@@ -1,0 +1,15 @@
+C:\Users\Alumno\Desktop\tl1-tp8-2024-eduardoTrigo\ejerciciob\bin\Debug\net8.0\ejerciciob.exe
+C:\Users\Alumno\Desktop\tl1-tp8-2024-eduardoTrigo\ejerciciob\bin\Debug\net8.0\ejerciciob.deps.json
+C:\Users\Alumno\Desktop\tl1-tp8-2024-eduardoTrigo\ejerciciob\bin\Debug\net8.0\ejerciciob.runtimeconfig.json
+C:\Users\Alumno\Desktop\tl1-tp8-2024-eduardoTrigo\ejerciciob\bin\Debug\net8.0\ejerciciob.dll
+C:\Users\Alumno\Desktop\tl1-tp8-2024-eduardoTrigo\ejerciciob\bin\Debug\net8.0\ejerciciob.pdb
+C:\Users\Alumno\Desktop\tl1-tp8-2024-eduardoTrigo\ejerciciob\obj\Debug\net8.0\ejerciciob.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\Desktop\tl1-tp8-2024-eduardoTrigo\ejerciciob\obj\Debug\net8.0\ejerciciob.AssemblyInfoInputs.cache
+C:\Users\Alumno\Desktop\tl1-tp8-2024-eduardoTrigo\ejerciciob\obj\Debug\net8.0\ejerciciob.AssemblyInfo.cs
+C:\Users\Alumno\Desktop\tl1-tp8-2024-eduardoTrigo\ejerciciob\obj\Debug\net8.0\ejerciciob.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\tl1-tp8-2024-eduardoTrigo\ejerciciob\obj\Debug\net8.0\ejerciciob.sourcelink.json
+C:\Users\Alumno\Desktop\tl1-tp8-2024-eduardoTrigo\ejerciciob\obj\Debug\net8.0\ejerciciob.dll
+C:\Users\Alumno\Desktop\tl1-tp8-2024-eduardoTrigo\ejerciciob\obj\Debug\net8.0\refint\ejerciciob.dll
+C:\Users\Alumno\Desktop\tl1-tp8-2024-eduardoTrigo\ejerciciob\obj\Debug\net8.0\ejerciciob.pdb
+C:\Users\Alumno\Desktop\tl1-tp8-2024-eduardoTrigo\ejerciciob\obj\Debug\net8.0\ejerciciob.genruntimeconfig.cache
+C:\Users\Alumno\Desktop\tl1-tp8-2024-eduardoTrigo\ejerciciob\obj\Debug\net8.0\ref\ejerciciob.dll
