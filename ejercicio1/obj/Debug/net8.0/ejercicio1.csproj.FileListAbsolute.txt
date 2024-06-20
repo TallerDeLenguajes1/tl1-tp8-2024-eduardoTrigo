@@ -13,3 +13,18 @@ C:\Users\Alumno\Desktop\eduaTrigo\ejercicio1\obj\Debug\net8.0\refint\ejercicio1.
 C:\Users\Alumno\Desktop\eduaTrigo\ejercicio1\obj\Debug\net8.0\ejercicio1.pdb
 C:\Users\Alumno\Desktop\eduaTrigo\ejercicio1\obj\Debug\net8.0\ejercicio1.genruntimeconfig.cache
 C:\Users\Alumno\Desktop\eduaTrigo\ejercicio1\obj\Debug\net8.0\ref\ejercicio1.dll
+C:\Users\Administrador\Desktop\taller de lenguaje\tps\tl1-tp8-2024-eduardoTrigo\ejercicio1\bin\Debug\net8.0\ejercicio1.exe
+C:\Users\Administrador\Desktop\taller de lenguaje\tps\tl1-tp8-2024-eduardoTrigo\ejercicio1\bin\Debug\net8.0\ejercicio1.deps.json
+C:\Users\Administrador\Desktop\taller de lenguaje\tps\tl1-tp8-2024-eduardoTrigo\ejercicio1\bin\Debug\net8.0\ejercicio1.runtimeconfig.json
+C:\Users\Administrador\Desktop\taller de lenguaje\tps\tl1-tp8-2024-eduardoTrigo\ejercicio1\bin\Debug\net8.0\ejercicio1.dll
+C:\Users\Administrador\Desktop\taller de lenguaje\tps\tl1-tp8-2024-eduardoTrigo\ejercicio1\bin\Debug\net8.0\ejercicio1.pdb
+C:\Users\Administrador\Desktop\taller de lenguaje\tps\tl1-tp8-2024-eduardoTrigo\ejercicio1\obj\Debug\net8.0\ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Desktop\taller de lenguaje\tps\tl1-tp8-2024-eduardoTrigo\ejercicio1\obj\Debug\net8.0\ejercicio1.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\taller de lenguaje\tps\tl1-tp8-2024-eduardoTrigo\ejercicio1\obj\Debug\net8.0\ejercicio1.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\taller de lenguaje\tps\tl1-tp8-2024-eduardoTrigo\ejercicio1\obj\Debug\net8.0\ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\taller de lenguaje\tps\tl1-tp8-2024-eduardoTrigo\ejercicio1\obj\Debug\net8.0\ejercicio1.sourcelink.json
+C:\Users\Administrador\Desktop\taller de lenguaje\tps\tl1-tp8-2024-eduardoTrigo\ejercicio1\obj\Debug\net8.0\ejercicio1.dll
+C:\Users\Administrador\Desktop\taller de lenguaje\tps\tl1-tp8-2024-eduardoTrigo\ejercicio1\obj\Debug\net8.0\refint\ejercicio1.dll
+C:\Users\Administrador\Desktop\taller de lenguaje\tps\tl1-tp8-2024-eduardoTrigo\ejercicio1\obj\Debug\net8.0\ejercicio1.pdb
+C:\Users\Administrador\Desktop\taller de lenguaje\tps\tl1-tp8-2024-eduardoTrigo\ejercicio1\obj\Debug\net8.0\ejercicio1.genruntimeconfig.cache
+C:\Users\Administrador\Desktop\taller de lenguaje\tps\tl1-tp8-2024-eduardoTrigo\ejercicio1\obj\Debug\net8.0\ref\ejercicio1.dll

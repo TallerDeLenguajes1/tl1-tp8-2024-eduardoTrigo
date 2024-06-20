@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alumno\\Desktop\\tl1-tp8-2024-eduardoTrigo\\ejerciciob\\ejerciciob.csproj": {}
+    "C:\\Users\\Administrador\\Desktop\\taller de lenguaje\\tps\\tl1-tp8-2024-eduardoTrigo\\ejerciciob\\ejerciciob.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alumno\\Desktop\\tl1-tp8-2024-eduardoTrigo\\ejerciciob\\ejerciciob.csproj": {
+    "C:\\Users\\Administrador\\Desktop\\taller de lenguaje\\tps\\tl1-tp8-2024-eduardoTrigo\\ejerciciob\\ejerciciob.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alumno\\Desktop\\tl1-tp8-2024-eduardoTrigo\\ejerciciob\\ejerciciob.csproj",
+        "projectUniqueName": "C:\\Users\\Administrador\\Desktop\\taller de lenguaje\\tps\\tl1-tp8-2024-eduardoTrigo\\ejerciciob\\ejerciciob.csproj",
         "projectName": "ejerciciob",
-        "projectPath": "C:\\Users\\Alumno\\Desktop\\tl1-tp8-2024-eduardoTrigo\\ejerciciob\\ejerciciob.csproj",
-        "packagesPath": "C:\\Users\\Alumno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alumno\\Desktop\\tl1-tp8-2024-eduardoTrigo\\ejerciciob\\obj\\",
+        "projectPath": "C:\\Users\\Administrador\\Desktop\\taller de lenguaje\\tps\\tl1-tp8-2024-eduardoTrigo\\ejerciciob\\ejerciciob.csproj",
+        "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Administrador\\Desktop\\taller de lenguaje\\tps\\tl1-tp8-2024-eduardoTrigo\\ejerciciob\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Alumno\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Administrador\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
