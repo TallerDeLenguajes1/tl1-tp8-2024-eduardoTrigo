@@ -1,13 +1,5 @@
 // See https://aka.ms/new-console-template for more information
 
-
-// public class GestorTareas
-// {
-//     List<Tarea> tareasPendientes = new List<Tarea>();
-//     List<Tarea> tareasRealizadas = new List<Tarea>();
-// }
-
-
 public class GestorTareas
 {
     public static void GenerarTareas(List<Tarea> tareas, int cantidad)

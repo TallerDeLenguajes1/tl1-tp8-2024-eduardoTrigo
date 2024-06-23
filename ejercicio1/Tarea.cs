@@ -27,7 +27,7 @@ public class Tarea
 
     public string MostrarTarea()
     {
-        return $"{idTarea} | {description} | {duracion} dias | {estado}";
+        return $"{IdTarea} | {Description} | {Duracion} dias | {Estado}";
     }
 
 
